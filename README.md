@@ -102,6 +102,8 @@ Input:
 
 
 Output:
+
+
 There is a dog wearing a red Christmas hat and scarf
 ![image](https://github.com/user-attachments/assets/c59ea45d-565d-40ae-805d-d4a4aa472c01)
 ![image](https://github.com/user-attachments/assets/71945a62-53fb-4eea-b696-536fccde8dd0)
